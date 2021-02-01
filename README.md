@@ -23,3 +23,7 @@ The aim of this exercise is to create a re-usable card component with Vue. [Snap
    4. To check that you are correctly passing the card value; try to console.log it when the card is clicked.
 
 5. Write a Vue App that will create as many card as there are in the poker deck. Think about which numbers are in the deck and what types of cards there are. You may store this information in different arrays, and then generate all the values and paths to images for each card.
+
+# Solution
+
+You can check the soulution.zip file or this other solution provided by [Didac Pérez](https://github.com/didac3141592/Vue/tree/main/Playing%20Cards)
